@@ -1,5 +1,5 @@
 
-# Artificial Intelligence Lab 4
+# Artificial Intelligence Lab
 ## Overview
 This program demonstrates the implementation of two supervised learning algorithms: k-Nearest Neighbors (kNN) and Naive Bayes, with an additional implementation of the unsupervised k-Means algorithm for extra credit. It can operate in three modes based on command-line arguments: kNN, Naive Bayes, or k-Means.
 
